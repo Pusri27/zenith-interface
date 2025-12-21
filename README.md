@@ -69,6 +69,3 @@ This project demonstrates advanced frontend engineering techniques, including ph
 
 **Pusri27**
 *   **GitHub**: [@Pusri27](https://github.com/Pusri27)
-
----
-*Designed & Engineered with precision.*
